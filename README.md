@@ -27,4 +27,5 @@ Buatlah halaman lesson dengan path `/topic/:id` yang menampilkan materi yang aka
 
 Buatlah halaman quiz dengan path `/topic/:id/quiz/:id` yang menampilkan soal quiz dengan 3 max attempt untuk submit nilai, namun harus mencapai kkm 70 untuk menyelesaikan course.
 
-![release-2](release-2-fe.jpg)
+![release-2](release-2-fe.jpg) 
+![release-2.1](release-2.1-fe.jpg) 
